@@ -7,7 +7,7 @@
 |:---:|:---:|
 |99.997|<span style="color:red">93.3593</span>|
 
-<img src="./image/model.png"  width="700" height="500">
+<img src="./image/model.png"  width="400" height="600">
 
 
 
