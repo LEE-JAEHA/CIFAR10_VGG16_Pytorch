@@ -12,6 +12,6 @@
 
 
 
-<img src="./image/acc.png"  width="300" height="300">
-<img src="./image/loss.png"  width="300" height="300">
+<img align="left" src="./image/acc.png"  width="300" height="300">
+<img align="left" src="./image/loss.png"  width="300" height="300">
 
