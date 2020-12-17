@@ -3,6 +3,9 @@
 
 #### CIFAR10 with modified vgg16 with pytorch
 
+<img src="./image/model.png"  width="500" height="500">
+
+
 
 |Training Accuracy(%)|Testing Accuracy(%)|
 |:---:|:---:|
