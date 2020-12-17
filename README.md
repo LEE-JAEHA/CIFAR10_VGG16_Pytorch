@@ -8,7 +8,7 @@
 |:---:|:---:|
 |99.997|<span style="color:red">93.3593</span>|
 
-<div>
-<img width="200" src="./image/acc.png>
-<img width="200" src="./image/loss.png>
-<div>
+
+![acc](./image/acc.png)
+![loss](./image/loss.png)
+
